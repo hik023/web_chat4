@@ -1,0 +1,14 @@
+{
+  "name": "web_chat4",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "devDependencies": {
+    "budo":"^10.0.4"
+  },
+  "dependencies": {
+    "simple-peer": "^8.1.1"
+  }
+}
